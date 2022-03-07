@@ -1,0 +1,21 @@
+$app-bgcolor:#550000;
+$heading-color:#efe2e3;
+$head-foot-padding:35px;
+$head-foot-fontcolor:#efefef;
+*
+{
+   margin:0;
+   padding:0;
+}
+header
+{
+   background-color: $app-bgcolor;
+   padding:$head-foot-padding;
+   color:$head-foot-fontcolor;
+}
+footer
+{
+   background-color: $app-bgcolor;
+   padding:$head-foot-padding;
+   color:$head-foot-fontcolor;
+}
